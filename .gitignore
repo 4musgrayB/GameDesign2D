@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/2DSideScroller/UI/Background.uasset
+Content/2DSideScroller/UI/Start.uasset
+Content/2DSideScroller/UI/Title.uasset
